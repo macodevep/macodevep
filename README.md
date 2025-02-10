@@ -1,7 +1,14 @@
 # Macodev
 # 💫 About Me:
 Me llamo María Pacheco.
-Actualmente estudiando Python. <br>Hablo español nativo.<br>Inglés conversacional.
+Actualmente estudiando Python. 
+Estudiante de Python con experiencia en el desarrollo de proyectos personales de análisis de datos . Busco oportunidades para aplicar mis habilidades técnicas y contribuir al éxito de equipos de trabajo en el campo de la ciencia de datos.
+
+Habilidades técnicas
+
+Lenguajes de programación: Python
+Librerías: Pandas
+<br>Hablo español nativo.<br>Inglés conversacional.
 
 
 ## 🌐 Socials:
